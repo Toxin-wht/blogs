@@ -1,7 +1,7 @@
 module.exports = {
   "title": "Toxin",
   "description": "这是一个菜鸟的博客",
-  "base":"/Toxin-wht.github.io/",
+  "base":"/Toxin-wht",
   "dest": "public",
   "head": [
     [
