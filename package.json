@@ -1,0 +1,19 @@
+{
+  "name": "Toxin-wht.github.io",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": "这是一个菜鸟的博客",
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.16",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "vuepress-plugin-cursor-effects": "^1.1.6"
+  }
+}
